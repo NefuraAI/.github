@@ -1,5 +1,9 @@
-# Welcome
-Organisasi Bot
+![github](https://github.com/user-attachments/assets/f7c8ebf7-4ac7-4d8a-9b1c-e43d8086ca3b)
+
+<h1 align="center">
+   Welcome
+</h1>
+
 ### Maintainer
 <table>
 <tr>
